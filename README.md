@@ -1,1 +1,4 @@
 # Cloud
+#
+kannst du mir sagen wie ich mit github pages eine cloud erstellen kann wo man sich am anfang registrieren muss oder einloggen? Man soll dort wenn man sich registriert hat in eine Liste automatisch eintragen. Beim registrieren braucht man Benutzername und Passwort. beides soll gespeichert werden. Es soll außerdem einen benutzer geben der sich mit Administrator als benutzername und SirZombey123! als passwort einloggen kann. der soll auf diese liste zugreifen können. Jeder der sich eingeloggt hat soll datein hochladen und aus einer liste downloaden könne. Jede Hochgeladene Datei soll
+in der liste erscheinen und heruntergeladen werden können, es sei denn es ist der benutzer Administrator der Kann immer sagen ob jeder seine dateien sehen kann oder nciht. Es darf immer nur jeden benutzernamen einmal gebemn
